@@ -23,6 +23,7 @@ O Eureka é uma aplicação criada para melhorar a experiência dos visitantes d
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## Equipe:
 -Marcos Oliveira de Freitas | RA: 22.10277-9 |<https://github.com/MarcosOlliveiraF>  
